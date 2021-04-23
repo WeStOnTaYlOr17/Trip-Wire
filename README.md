@@ -1,1 +1,1 @@
-# Trip-Wire
+# Trip-Wire Our names Austin Stansell Tristan Leverette, and Braden Buckey. Our project was a laser trip wire. However, the LDR didn't read the laser so we used a lamp instead. We all go to Chester County High School. Some days we stayed in class after the bell rang. 
